@@ -1,6 +1,7 @@
 html {
   background-color: #000;
 }
+
 .clock-face {
   height: 300px;
   margin: 50px auto;
@@ -8,7 +9,6 @@ html {
   width: 300px;
   background: transparent url("../images/clock-face.svg");
 }
-
 
 .clock-center {
   bottom: calc(50% - 14px);
